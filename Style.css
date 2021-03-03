@@ -1,0 +1,65 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bgimg {
+  background-image: url('/w3images/forestbridge.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: rgba(8, 8, 8, 0.993);
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+.header{
+    height: 100px;
+}
+.left {
+    background-color:orange;
+}
+
+.right {
+    background-color:green;
+}
+.box{
+height:150px;
+border: 1px black solid;
+
+}
+.vis1{
+background-image: url("Resources/assets/images/Fig1.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+.vis2{
+  background-image: url("Resources/assets/images/Fig2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat
+
+}
+.vis3{
+  background-image: url("Resources/assets/images/Fig3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.vis4{
+  background-image: url("Resources/assets/images/Fig4.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.com{
+
+}
+.data{
+
+}
