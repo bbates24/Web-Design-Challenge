@@ -19,11 +19,11 @@ body, html {
     height: 100px;
 }
 .left {
-    background-color:orange;
+    background-color:w;
 }
 
 .right {
-    background-color:green;
+    background-color:grey;
 }
 .box{
 height:150px;
@@ -58,8 +58,16 @@ background-repeat: no-repeat;
 
 }
 .com{
+  background-image: url("Resources/assets/images/Fig3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 
 }
 .data{
+  background-image: url("Resources/assets/images/Fig4.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 
 }
